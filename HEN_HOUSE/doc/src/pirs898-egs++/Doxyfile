@@ -198,6 +198,7 @@ ALIASES                = "internwarning=\par Warning:\n This class is not part o
                          "FT=\author Frederic Tessier, NRC" \
                          "EM=\author Ernesto Mainegra-Hing, NRC" \
                          "BW=\author Blake Walters, NRC" \
+			 "RT=\author Reid Townson, NRC" \
                          "GG=\author Georgi Gerganov" \
 
 # Set the OPTIMIZE_OUTPUT_FOR_C tag to YES if your project consists of C sources
